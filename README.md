@@ -1,3 +1,5 @@
+# Edit: First attempt at building fullstack app with authentication and MongoDB
+
 # Nutrition-App
 
 *Nutrition and weight-loss app designed using a MERN stack*
